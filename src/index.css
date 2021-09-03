@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button{
+  margin: 1.5rem;
+  padding: 1rem;
+  color: coral;
+  background-color: cornflowerblue;
+}
